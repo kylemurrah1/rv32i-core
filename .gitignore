@@ -216,3 +216,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Simulation output
+*.vcd
+*.fst
+*.vvp
+sim_build/
+results.xml
+
+# C++ build
+*.o
+a.out
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Simulation output
+*.vcd
+*.fst
+*.vvp
+sim_build/
+results.xml
+
+# C++ build
+*.o
+a.out
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
